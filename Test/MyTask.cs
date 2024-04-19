@@ -8,6 +8,10 @@ namespace Test
 {
     public class MyTask
     {
+        // bu test uchun qilindi
+        // bu ham
+
+
         public int Id { get; set; }
         public string Message { get; set; }
         public int? TeacherId { get; set; }
